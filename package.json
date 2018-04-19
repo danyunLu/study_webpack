@@ -1,0 +1,17 @@
+{
+  "name": "study webpack",
+  "version": "1.0.0",
+  "description": "webapck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "danyunLu",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.6.0"
+  }
+}
